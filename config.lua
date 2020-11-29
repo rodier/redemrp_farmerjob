@@ -6,11 +6,11 @@ Config.FarmerJobSprite = 1560611276 -- Farmer Job Blip sprite
 Config.GatheringAnim = "WORLD_HUMAN_CROUCH_INSPECT" -- Scenario while Gathering
 Config.FreezeWhileGather = true -- Freeze player while he's gathering
 Config.SetJob = true -- Set job after Start working
-Config.JobName = "farmer" -- Job name to set
+Config.JobName = "farmar" -- Job name to set
 
-Config.StartWorking = "Press DEL to start working as Farmer!" -- Start Working Message
-Config.StartGather = "Press DEL to start gathering!" -- Start Gathering Message
-Config.TimerMsg = "Gathering will be finished in" -- Finish message
+Config.StartWorking = "Stiskni klavesu DEL aby ses stal Farmarem!" -- Start Working Message
+Config.StartGather = "Stiskni klavesu DEL pro pocatek sberu!" -- Start Gathering Message
+Config.TimerMsg = "Sber bude hotov za.." -- Finish message
 
 Config.MinCash = 1 -- Min Payout
 Config.MaxCash = 3 -- Max Payout
